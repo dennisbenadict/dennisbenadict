@@ -37,8 +37,8 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
-    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
+    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="33%" />
 </p> 
 
 
