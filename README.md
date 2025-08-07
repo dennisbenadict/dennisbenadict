@@ -30,8 +30,8 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en" alt="salmanfaris22" width="40%" />
-    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en" alt="dennisbenadict" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="45%" />
 </p> 
 
 
