@@ -17,31 +17,30 @@
 
 ### 🛠️ Technologies & Tools I Work With:
 
-<table>
-  <tr>
-    <td align="center" style="width: 100px;">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="48" /><br>🅰️ Angular
-    </td>
-    <td align="center" style="width: 100px;">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" /><br>🔷 TypeScript
-    </td>
-    <td align="center" style="width: 100px;">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" /><br>🟨 JavaScript
-    </td>
-    <td align="center" style="width: 10rem;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>🔶 HTML
-    </td>
-    <td align="center" style="width: 100px;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>🔷 CSS
-    </td>
-    <td align="center" style="width: 100px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" /><br>🌬️ Tailwind
-    </td>
-    <td align="center" style="width: 100px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" /><br>🔧 Git
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="width: 100px; text-align: center;">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" alt="Angular" /><br>🅰️ Angular
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br>🔷 TypeScript
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>🟨 JavaScript
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>🔶 HTML
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>🔷 CSS
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" /><br>🌬️ Tailwind
+  </div>
+  <div style="width: 100px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>🔧 Git
+  </div>
+</div>
+
 
 
 
