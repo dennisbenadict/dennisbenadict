@@ -17,29 +17,19 @@
 
 ### 🛠️ Technologies & Tools I Work With:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="width: 100px; text-align: center;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" alt="Angular" /><br>🅰️ Angular
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br>🔷 TypeScript
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>🟨 JavaScript
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>🔶 HTML
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>🔷 CSS
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" /><br>🌬️ Tailwind
-  </div>
-  <div style="width: 100px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>🔧 Git
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="65" /><br>🅰️ Angular</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" /><br>🔷 TypeScript</td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Golang" width="48" /><br>Golang</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" /><br>Redux Toolkit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" /><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" /><br>Bootstrap</td>
+  </tr>
+</table>
 
 
 
