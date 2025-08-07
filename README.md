@@ -16,7 +16,7 @@
 ### 🛠️ Technologies & Tools I Work With:
 
 
-<table>
+<table align="center>
   <tr>
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="55" /><br>🅰️ Angular</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="55" /><br>🔷 TypeScript</td>
