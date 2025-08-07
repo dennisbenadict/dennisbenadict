@@ -15,6 +15,7 @@
 
 ### 🛠️ Technologies & Tools I Work With:
 
+
 <table>
   <tr>
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="55" /><br>🅰️ Angular</td>
@@ -28,17 +29,9 @@
 </table>
 
 
-
-<div style="display: flex; justify-content: space-around;">
-<img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=dracula" />
-<img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" />
-</div>
-
-
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
-    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en" alt="salmanfaris22" width="40%" />
+    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="40%" />
 </p> 
 
 
