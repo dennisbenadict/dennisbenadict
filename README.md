@@ -43,7 +43,7 @@
 ### 📈 Connect with me:
 
 
-<div style="display: flex; gap: 50px; align-items: center;">
+<div style="display: flex; gap: 100px; align-items: center;">
   <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
