@@ -40,9 +40,10 @@
 </p> 
 
 
+### 📈 Connect with me:
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
+
+<p>
   <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
