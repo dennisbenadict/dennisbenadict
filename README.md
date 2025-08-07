@@ -31,8 +31,8 @@
 
 
 <div style="display: flex; justify-content: space-around; gap: 10px; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight" />
-  <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" />
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee)
 </div>
 
 
