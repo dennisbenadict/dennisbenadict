@@ -28,6 +28,10 @@
   </tr>
 </table>
 
+
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight)
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee)
 
 
