@@ -6,11 +6,10 @@
 
 
 
-- 🔭 Currently diving deep into software development, crafting seamless user experiences.
-- 🌱 On an exciting learning adventure with Golang, enhancing my front-end skills to complement my backend expertise.
-- 👨‍💻 Explore all my projects at my portfolio—where creativity meets code!
+- 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.
+- 🌌 Completed Angular, now exploring .NET to strengthen my backend skills and grow as a full-stack developer.
 - 💬 Let's chat about React JS stack and Golang—my go-to technologies for building robust applications.
-- 📫 Reach out to me at: dennisbenadict123@gmail.com—I'm always up for a good conversation!
+- 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at: dennisbenadict123@gmail.com
 - ⚡ Fun fact: I think I'm funny, and I promise my code is less of a joke than I am!
 
 
