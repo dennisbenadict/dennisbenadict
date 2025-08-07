@@ -1,3 +1,8 @@
+![Cat Typing Fast](https://media.tenor.com/TZoDw-rLIeEAAAAC/cat-hack-the-planet.gif)
+
+
+
+
 # Hi 👋, I'm Dennis Benadict
 <img src="img.webp" alt="Description" class="inline-image">
 
