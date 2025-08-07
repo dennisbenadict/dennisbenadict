@@ -1,6 +1,10 @@
 
 # Hi 👋, I'm Dennis Benadict
-![Typing Cat](https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" />
+</p>
+
 
 
 
