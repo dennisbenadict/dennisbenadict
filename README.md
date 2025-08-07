@@ -25,7 +25,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" /><br>🔶 HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" /><br>🔷 CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55" /><br>🌬️ Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" /><br>🔧 Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" /><br>🌐 GitHub</td>
   </tr>
 </table>
 
