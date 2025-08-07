@@ -29,16 +29,16 @@
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" /><br>🟨 JavaScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="100" /><br>🔶 HTML
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>🔶 HTML
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="52" /><br>🔷 CSS
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>🔷 CSS
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="52" /><br>🌬️ Tailwind
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" /><br>🌬️ Tailwind
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="52" /><br>🔧 Git
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" /><br>🔧 Git
     </td>
   </tr>
 </table>
