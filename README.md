@@ -43,15 +43,15 @@
 ### 📈 Connect with me:
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+<p>
+  <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
-  <a href="mailto:dennisbenadict123@gmail.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
+  <a href="mailto:dennisbenadict123@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/>
   </a>
   <a href="https://wa.me/916238545152" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30"/>
   </a>
 </p>
 
