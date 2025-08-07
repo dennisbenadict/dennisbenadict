@@ -8,7 +8,6 @@
 
 - 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.
 - 🌌 Completed Angular, now exploring .NET to strengthen my backend skills and grow as a full-stack developer.
-- 💬 Let's chat about React JS stack and Golang—my go-to technologies for building robust applications.
 - 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at: dennisbenadict123@gmail.com
 - 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!
 
