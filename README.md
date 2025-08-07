@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee)
 
 
 
