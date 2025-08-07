@@ -11,7 +11,7 @@
 
 - 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.<br>
 - 🌌 Completed Angular, now exploring .NET to strengthen my backend skills and grow as a full-stack developer.<br>
-- 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at: dennisbenadict123@gmail.com<br>
+- 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at:<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisbenadict123@gmail.com" target="_blank">dennisbenadict123@gmail.com</a><br>
 - 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!<br>
 
 
