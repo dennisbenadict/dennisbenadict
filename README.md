@@ -43,7 +43,7 @@
 ### 📈 Connect with me:
 
 
-<p>
+<p style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
@@ -54,6 +54,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30"/>
   </a>
 </p>
+
 
 
 
