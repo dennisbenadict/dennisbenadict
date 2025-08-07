@@ -19,29 +19,30 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="48" /><br>🅰️ Angular
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" /><br>🔷 TypeScript
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" /><br>🟨 JavaScript
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>🔶 HTML
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>🔷 CSS
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" /><br>🌬️ Tailwind
     </td>
-    <td align="center">
+    <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" /><br>🔧 Git
     </td>
   </tr>
 </table>
+
 
 
 
