@@ -28,7 +28,7 @@
     <td align="center" style="width: 100px;">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" /><br>🟨 JavaScript
     </td>
-    <td align="center" style="width: 100px;">
+    <td align="center" style="width: 1000px;">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" /><br>🔶 HTML
     </td>
     <td align="center" style="width: 100px;">
