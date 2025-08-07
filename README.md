@@ -29,13 +29,19 @@
 </table>
 
 
-![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisbenadict&layout=compact&theme=tokyonight)
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisbenadict&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" />
+    </td>
+  </tr>
+</table>
 
 
 
