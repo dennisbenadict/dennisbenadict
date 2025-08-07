@@ -1,8 +1,8 @@
-# Hi 👋, I'm Salman Faris
+# Hi 👋, I'm Dennis Benadict
 <img src="img.webp" alt="Description" class="inline-image">
 
 
-### A Passionate Full Stack Developer with a Love for Backend Magic! ✨
+### Frontend Developer in Progression to Full-Stack Mastery🚀
 
 ### 🔥 &nbsp; My Journey:
 
@@ -28,29 +28,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" /><br>HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" /><br>Bootstrap</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" alt="Figma" width="40" /><br>GORM</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br>Material UI</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" /><br>C</td>
-    <td align="center"><img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" alt="JIRA" width="62" /><br>JIRA</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="62" /><br>Prettier</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" /><br>Tailwind</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" /><br>Postman</td>
-    <td align="center"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" /><br>JWT</td>
-  
-  </tr>
-   <tr>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
-  <td align="center"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" 
-      alt="Figma" width="40" /><br>PostgreSQL</td>
-  <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
-  <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
-  <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" alt="Git" width="48" /><br>React Query</td>
-  <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" alt="Git" width="48" /><br>GoLand</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="Git" width="48" /><br>N P M</td> 
-       <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="Git" width="48" /><br>TanStack</td> 
   </tr>
 </table>
 
