@@ -44,13 +44,13 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank">
+  <a href="https://www.linkedin.com/in/dennisbenadict" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
-  <a href="mailto:dennisbenadict123@gmail.com" target="_blank">
+  <a href="mailto:dennisbenadict123@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/>
   </a>
-  <a href="https://wa.me/916238545152" target="_blank">
+  <a href="https://wa.me/916238545152" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30"/>
   </a>
 </p>
