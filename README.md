@@ -32,7 +32,6 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisbenadict&layout=compact&theme=tokyonight" />
   <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" />
 </div>
 
