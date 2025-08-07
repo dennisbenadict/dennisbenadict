@@ -31,7 +31,7 @@
 
 
 <div style="display: flex; justify-content: space-around; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&theme=github_dark" />
+<img src="https://githubreadmestats.vercel.app/apiusername=dennisbenadict&show_icons=true&title_color=FFA116&text_color=FFFFFF&icon_color=FFA116&bg_color=0D1117&border_color=30363D" />
   <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" />
 </div>
 
