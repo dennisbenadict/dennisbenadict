@@ -22,10 +22,10 @@
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="65" /><br>🅰️ Angular</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" /><br>🔷 TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" /><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html"" alt="HTML5" width="48" /><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="62" /><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" /><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" /><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" /><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" /><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" /><br>Git</td>
   </tr>
 </table>
 
