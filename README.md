@@ -7,27 +7,56 @@
 <p align="left">
 </p>
 
-<h2>🛠️ Technologies & Tools I Work With:</h2>
+<h2 align="center">🛠️ Tech Stack I Work With</h2>
 
 <div align="center">
   <table>
     <tr>
+      <!-- Angular -->
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-        <br/>React
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular" />
+        <br/>Angular
       </td>
+      <!-- TypeScript -->
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-        <br/>Golang
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        <br/>TypeScript
       </td>
+      <!-- JavaScript -->
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
         <br/>JavaScript
       </td>
-      <!-- Add more boxes here -->
+      <!-- HTML5 -->
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <br/>HTML5
+      </td>
     </tr>
-    <!-- Add more rows if needed -->
+    <tr>
+      <!-- CSS3 -->
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <br/>CSS3
+      </td>
+      <!-- TailwindCSS -->
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+        <br/>TailwindCSS
+      </td>
+      <!-- Git -->
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br/>Git
+      </td>
+      <!-- NPM -->
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" />
+        <br/>NPM
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
