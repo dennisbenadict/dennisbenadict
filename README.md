@@ -36,7 +36,11 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dennisbenadict&show_icons=true&locale=en&theme=gotham" alt="dennisbenadict" width="45%" />
-    <img src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" width="45%" />
+   <img 
+  src="https://leetcard.jacoblin.cool/DennisBenadict?theme=dark&font=ABeeZee" 
+  width="45%" 
+  style="border: 2px solid white; border-radius: 8px;" 
+/>
 </p> 
 
 
