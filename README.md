@@ -1,6 +1,7 @@
 
 # Hi 👋, I'm Dennis Benadict
-![Cat Typing Fast](https://media.tenor.com/TZoDw-rLIeEAAAAC/cat-hack-the-planet.gif)
+![Typing Cat](https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif)
+
 
 
 ### Frontend Developer in Progression to Full-Stack Mastery🚀
