@@ -1,22 +1,18 @@
-
 # Hi 👋, I'm Dennis Benadict
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" />
 </p>
 
 
-
-
 ### Frontend Developer in Progression to Full-Stack Mastery🚀
 
 
-
-- 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.
-- 🌌 Completed Angular, now exploring .NET to strengthen my backend skills and grow as a full-stack developer.
-- 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at: dennisbenadict123@gmail.com
-- 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!
-
+- 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.<br>
+- 🌌 Completed Angular, now exploring .NET to strengthen my backend skills and grow as a full-stack developer.<br>
+- 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at: dennisbenadict123@gmail.com<br>
+- 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!<br>
 
 
 ### 🛠️ Technologies & Tools I Work With:
@@ -33,6 +29,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" /><br>🌐 GitHub</td>
   </tr>
 </table>
+
+
+### 📈 GitHub and Leetcode Stats:
 
 
 <p align="center">
