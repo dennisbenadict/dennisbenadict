@@ -21,8 +21,8 @@
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" width="55" /><br>.Net</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="55" /><br>SQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" alt="C#" width="55" /><br>C#</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sql" alt="sql" width="55" /><br>Sql</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="55" /><br>Angular</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="55" /><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" /><br>JavaScript</td>
@@ -30,8 +30,10 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" /><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55" /><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" /><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swagger" alt="Swagger" width="55" /><br>Swagger</td>
   </tr>
 </table>
+
 
 
 ### 📈 GitHub and Leetcode Stats:
