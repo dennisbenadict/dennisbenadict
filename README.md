@@ -22,8 +22,8 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" width="55" /><br>.Net</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" alt="C#" width="55" /><br>C#</td>
-    <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="55" /><br>Angular</td>
-    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="55" /><br>Angular</td> -->
+    <!-- <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="55" /><br>Angular</td> -->
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="55" /><br>Angular</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="55" /><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" /><br>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" /><br>HTML5</td>
