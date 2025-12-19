@@ -43,11 +43,11 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" alt="Postman"/><br>Postman</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker"/><br>Docker</td>
     <td align="center" width="120"><img src="./Yarp.png" width="60" alt="YARP"/><br>YARP</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS"/><br>AWS</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub"/><br>GitHub</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/><br>Git</td>
