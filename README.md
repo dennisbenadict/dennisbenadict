@@ -15,23 +15,99 @@
 - 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!<br>
 
 
-### 🛠️ Technologies & Tools I Work With:
+### 🛠️ Technologies & Tools I Work With
 
-
-<table>
+<table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" width="55" /><br>.Net</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c#" alt="C#" width="55" /><br>C#</td>
-    <!-- <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="55" /><br>Angular</td> -->
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="55" /><br>Angular</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="55" /><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" /><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" /><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" /><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="55" /><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" /><br>GitHub</td>
+    <!-- Backend Core -->
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="55"/><br/>.NET
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55"/><br/>C#
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/database-icon.svg" width="55"/><br/>ADO.NET
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br/>Entity Framework
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55"/><br/>SQL Server
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="55"/><br/>Angular
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="55"/><br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="55"/><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="55"/><br/>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="55"/><br/>CSS
+    </td>
+  </tr>
+
+  <tr>
+    <!-- UI & Styling -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/><br/>Angular Material
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55"/><br/>REST API
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="55"/><br/>JWT
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=swagger" width="55"/><br/>Swagger
+    </td>
+  </tr>
+
+  <tr>
+    <!-- DevOps & Architecture -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="55"/><br/>Docker
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg" width="55"/><br/>YARP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="55"/><br/>RabbitMQ
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/api-icon.svg" width="55"/><br/>Microservices
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="55"/><br/>AWS
+    </td>
+  </tr>
+
+  <tr>
+    <!-- CI/CD & Version Control -->
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/cicd-icon.svg" width="55"/><br/>CI/CD Pipeline
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="55"/><br/>GitHub
+    </td>
   </tr>
 </table>
+
 
 
 ### 📈 GitHub and Leetcode Stats:
