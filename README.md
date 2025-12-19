@@ -40,7 +40,7 @@
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST API"/><br>REST API</td>
     <td align="center" width="120"><img src="http://jwt.io/img/icon.svg" width="60" alt="JWT"/><br>JWT</td>
     <td align="center" width="120"><img src="./Swagger Logo.png" width="60" alt="Swagger"/><br>Swagger</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>Docker</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker"/><br>Docker</td>
     <td align="center" width="120"><img src="./Yarp.png" width="60" alt="YARP"/><br>YARP</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
   </tr>
