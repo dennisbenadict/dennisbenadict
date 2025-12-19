@@ -16,98 +16,154 @@
 
 ---
 
-### 🛠️ Technologies & Tools I Work With
+<div align="center">
+  
+  <!-- Animated Header -->
+  <h1>✨ Skills & Technologies ✨</h1>
+  
+</div>
 
-<table align="center">
+<style>
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .skill-table {
+    animation: fadeInUp 0.6s ease-out;
+  }
+  
+  .skill-table td {
+    transition: all 0.3s ease;
+    animation: fadeInUp 0.6s ease-out;
+  }
+  
+  .skill-table td:hover {
+    transform: translateY(-10px) scale(1.1);
+  }
+  
+  .skill-table td:hover img {
+    animation: pulse 1s ease-in-out infinite;
+  }
+  
+  .skill-table img {
+    transition: all 0.3s ease;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+  }
+  
+  .skill-table td:hover img {
+    filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.2));
+  }
+</style>
+
+<table align="center" class="skill-table">
   <tr>
     <!-- Backend Core -->
-    <td align="center">
+    <td align="center" style="animation-delay: 0.1s;">
       <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="55"/><br/>.NET
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.2s;">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55"/><br/>C#
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.3s;">
       <img src="https://techstack-generator.vercel.app/database-icon.svg" width="55"/><br/>ADO.NET
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.4s;">
       <img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br/>Entity Framework
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.5s;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
            width="48"/><br/>SQL Server
     </td>
   </tr>
-
   <tr>
     <!-- Frontend -->
-    <td align="center">
+    <td align="center" style="animation-delay: 0.6s;">
       <img src="https://skillicons.dev/icons?i=angular" width="55"/><br/>Angular
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.7s;">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/><br/>TypeScript
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.8s;">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/><br/>JavaScript
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 0.9s;">
       <img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif"
            width="55"/><br/>HTML5
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.0s;">
       <img src="https://skillicons.dev/icons?i=css" width="55"/><br/>CSS
     </td>
   </tr>
-
   <tr>
     <!-- UI & API -->
-    <td align="center">
+    <td align="center" style="animation-delay: 1.1s;">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>Tailwind
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.2s;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
            width="55"/><br/>Angular Material
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.3s;">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55"/><br/>REST API
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.4s;">
       <img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="55"/><br/>JWT
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.5s;">
       <img src="https://skillicons.dev/icons?i=swagger" width="55"/><br/>Swagger
     </td>
   </tr>
-
   <tr>
     <!-- Infra / Messaging -->
-    <td align="center">
+    <td align="center" style="animation-delay: 1.6s;">
       <img src="https://skillicons.dev/icons?i=docker" width="55"/><br/>Docker
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.7s;">
       <img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg"
            width="55"/><br/>YARP
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.8s;">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="55"/><br/>RabbitMQ
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 1.9s;">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55"/><br/>AWS
     </td>
   </tr>
-
   <tr>
     <!-- Version Control -->
-    <td align="center">
+    <td align="center" style="animation-delay: 2.0s;">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br/>GitHub
     </td>
-    <td align="center">
+    <td align="center" style="animation-delay: 2.1s;">
       <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>Git
     </td>
   </tr>
 </table>
-
----
 
 ### 📈 GitHub and LeetCode Stats
 
