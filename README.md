@@ -21,7 +21,7 @@
 <table align="center">
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET"/><br>.NET</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET Core"/><br>.NET Core</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" alt="C#"/><br>C#</td>
     <td align="center" width="120"><img src="./Ado.Net.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
     <td align="center" width="120"><img src="./EF.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
