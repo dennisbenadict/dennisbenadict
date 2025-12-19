@@ -21,10 +21,10 @@
 <table align="center">
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="60" alt=".NET"/><br>.NET</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET"/><br>.NET</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" alt="C#"/><br>C#</td>
     <td align="center" width="120"><img src="./Ado.Net.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
-    <td align="center" width="120"><img src="./EF.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
+    <td align="center" width="120"><img src="./EF.webp" width="60" alt="Entity Framework"/><br>EF</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>SQL Server</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular"/><br>Angular</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
