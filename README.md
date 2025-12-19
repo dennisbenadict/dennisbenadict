@@ -18,149 +18,129 @@
 
 <div align="center">
   
-  <!-- Animated Header -->
   <h1>✨ Skills & Technologies ✨</h1>
   
 </div>
 
-<style>
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  @keyframes pulse {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-  }
-  
-  @keyframes rotate {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  
-  .skill-table {
-    animation: fadeInUp 0.6s ease-out;
-  }
-  
-  .skill-table td {
-    transition: all 0.3s ease;
-    animation: fadeInUp 0.6s ease-out;
-  }
-  
-  .skill-table td:hover {
-    transform: translateY(-10px) scale(1.1);
-  }
-  
-  .skill-table td:hover img {
-    animation: pulse 1s ease-in-out infinite;
-  }
-  
-  .skill-table img {
-    transition: all 0.3s ease;
-    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
-  }
-  
-  .skill-table td:hover img {
-    filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.2));
-  }
-</style>
-
-<table align="center" class="skill-table">
+<table align="center">
   <tr>
     <!-- Backend Core -->
-    <td align="center" style="animation-delay: 0.1s;">
-      <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="55"/><br/>.NET
+    <td align="center">
+      <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.2s;">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55"/><br/>C#
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.3s;">
-      <img src="https://techstack-generator.vercel.app/database-icon.svg" width="55"/><br/>ADO.NET
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank">
+        <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ADO.NET"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.4s;">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br/>Entity Framework
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
+        <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.5s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-           width="48"/><br/>SQL Server
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      </a>
     </td>
   </tr>
   <tr>
     <!-- Frontend -->
-    <td align="center" style="animation-delay: 0.6s;">
-      <img src="https://skillicons.dev/icons?i=angular" width="55"/><br/>Angular
+    <td align="center">
+      <a href="https://angular.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.7s;">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/><br/>TypeScript
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.8s;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/><br/>JavaScript
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 0.9s;">
-      <img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif"
-           width="55"/><br/>HTML5
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.0s;">
-      <img src="https://skillicons.dev/icons?i=css" width="55"/><br/>CSS
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+      </a>
     </td>
   </tr>
   <tr>
     <!-- UI & API -->
-    <td align="center" style="animation-delay: 1.1s;">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br/>Tailwind
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.2s;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-           width="55"/><br/>Angular Material
+    <td align="center">
+      <a href="https://material.angular.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Angular%20Material-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.3s;">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55"/><br/>REST API
+    <td align="center">
+      <a href="https://restfulapi.net/" target="_blank">
+        <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.4s;">
-      <img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="55"/><br/>JWT
+    <td align="center">
+      <a href="https://jwt.io/" target="_blank">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.5s;">
-      <img src="https://skillicons.dev/icons?i=swagger" width="55"/><br/>Swagger
+    <td align="center">
+      <a href="https://swagger.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/>
+      </a>
     </td>
   </tr>
   <tr>
     <!-- Infra / Messaging -->
-    <td align="center" style="animation-delay: 1.6s;">
-      <img src="https://skillicons.dev/icons?i=docker" width="55"/><br/>Docker
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.7s;">
-      <img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg"
-           width="55"/><br/>YARP
+    <td align="center">
+      <a href="https://microsoft.github.io/reverse-proxy/" target="_blank">
+        <img src="https://img.shields.io/badge/YARP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="YARP"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.8s;">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="55"/><br/>RabbitMQ
+    <td align="center">
+      <a href="https://www.rabbitmq.com/" target="_blank">
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 1.9s;">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55"/><br/>AWS
+    <td align="center">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      </a>
     </td>
   </tr>
   <tr>
     <!-- Version Control -->
-    <td align="center" style="animation-delay: 2.0s;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br/>GitHub
+    <td align="center">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
     </td>
-    <td align="center" style="animation-delay: 2.1s;">
-      <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>Git
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      </a>
     </td>
   </tr>
 </table>
