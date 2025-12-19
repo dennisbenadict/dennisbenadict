@@ -7,7 +7,7 @@
 ### Full-Stack Developer ✨ 
 
 - 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.<br>
-- 🌌 Full-stack developer with expertise in Angular, .NET, and modern web technologies — turning ideas into scalable, production-ready applications.<br>
+- 🌌 Full-stack developer building modern Angular frontends and scalable .NET backend systems.<br>
 - 📫 Got an idea, opportunity, or just want to geek out over code? Hit me up at :
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisbenadict123@gmail.com" target="_blank">
     dennisbenadict123@gmail.com
