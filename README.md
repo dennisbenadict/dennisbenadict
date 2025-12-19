@@ -15,47 +15,45 @@
 - 🧠 Fun fact: When I’m not coding, I’m either debugging or pretending to be productive!!<br>
 
 ---
+
 ### 🛠️ Technologies & Tools I Work With:
 
-<p align="center">
-  <table align="center">
-    <!-- Row 1 -->
-    <tr>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="60"/><br>.NET</td>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
-      <td align="center" width="120"><img src="./Ado.Net.webp" width="60"/><br>ADO.NET</td>
-      <td align="center" width="120"><img src="./EF.webp" width="60"/><br>Entity Framework</td>
-      <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/><br>SQL Server</td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60"/><br>Angular</td>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
-      <td align="center" width="120"><img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60"/><br>HTML5</td>
-    </tr>
+<table align="center">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="60" alt=".NET"/><br>.NET</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" alt="C#"/><br>C#</td>
+    <td align="center" width="120"><img src="assets/icons/adonet.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
+    <td align="center" width="120"><img src="assets/icons/ef.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>SQL Server</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular"/><br>Angular</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center" width="120"><img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60" alt="HTML5"/><br>HTML5</td>
+  </tr>
 
-    <!-- Row 2 -->
-    <tr>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
-      <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/><br>Angular Material</td>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
-      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="60"/><br>JWT</td>
-      <td align="center" width="120"><img src="./Swagger Logo.png" width="60"/><br>Swagger</td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
-      <td align="center" width="120"><img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg" width="60"/><br>YARP</td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60"/><br>RabbitMQ</td>
-    </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/><br>CSS</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="Tailwind"/><br>Tailwind</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular Material"/><br>Angular Material</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST API"/><br>REST API</td>
+    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="60" alt="JWT"/><br>JWT</td>
+    <td align="center" width="120"><img src="assets/icons/swagger.png" width="60" alt="Swagger"/><br>Swagger</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>Docker</td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg" width="60" alt="YARP"/><br>YARP</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
+  </tr>
 
-    <!-- Row 3 -->
-    <tr>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
-      <td align="center" width="120"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
-    </tr>
-  </table>
-</p>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS"/><br>AWS</td>
+    <td align="center" width="120"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/><br>Git</td>
+  </tr>
+</table>
 
-
-
+---
 
 ### 📈 GitHub and LeetCode Stats
 
@@ -75,6 +73,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="30"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisbenadict123@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         width="30"/>
+  </a>
+  <a href="https://wa.me/916238545152" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png"
+         width="30"/>
+  </a>
+</p>
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisbenadict123@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          width="30"/>
