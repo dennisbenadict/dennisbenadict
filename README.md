@@ -23,8 +23,8 @@
   <tr>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" width="60" alt=".NET"/><br>.NET</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" alt="C#"/><br>C#</td>
-    <td align="center" width="120"><img src="assets/icons/adonet.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
-    <td align="center" width="120"><img src="assets/icons/ef.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
+    <td align="center" width="120"><img src="adonet.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
+    <td align="center" width="120"><img src="ef.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>SQL Server</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular"/><br>Angular</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
@@ -39,7 +39,7 @@
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular Material"/><br>Angular Material</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" alt="REST API"/><br>REST API</td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="60" alt="JWT"/><br>JWT</td>
-    <td align="center" width="120"><img src="assets/icons/swagger.png" width="60" alt="Swagger"/><br>Swagger</td>
+    <td align="center" width="120"><img src="swagger.png" width="60" alt="Swagger"/><br>Swagger</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>Docker</td>
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg" width="60" alt="YARP"/><br>YARP</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
