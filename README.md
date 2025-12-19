@@ -41,7 +41,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/jwtio/jwtio-icon.svg" width="60" alt="JWT"/><br>JWT</td>
     <td align="center" width="120"><img src="./Swagger Logo.png" width="60" alt="Swagger"/><br>Swagger</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/><br>Docker</td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/microsoft/reverse-proxy/main/docs/assets/yarp.svg" width="60" alt="YARP"/><br>YARP</td>
+    <td align="center" width="120"><img src="./Yarp.png" width="60" alt="YARP"/><br>YARP</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
   </tr>
 
