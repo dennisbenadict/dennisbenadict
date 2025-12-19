@@ -83,13 +83,3 @@
          width="30"/>
   </a>
 </p>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dennisbenadict123@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         width="30"/>
-  </a>
-  <a href="https://wa.me/916238545152" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png"
-         width="30"/>
-  </a>
-</p>
