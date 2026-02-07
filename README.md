@@ -26,6 +26,7 @@
     <td align="center" width="120"><img src="./Ado.Net.webp" width="60" alt="ADO.NET"/><br>ADO.NET</td>
     <td align="center" width="120"><img src="./EF.webp" width="60" alt="Entity Framework"/><br>Entity Framework</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>SQL Server</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="60" alt="Postgres"/><br>Postgres</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular"/><br>Angular</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript"/><br>JavaScript</td>
