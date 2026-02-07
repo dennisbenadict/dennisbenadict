@@ -30,11 +30,11 @@
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="60" alt="Angular"/><br>Angular</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" alt="TypeScript"/><br>TypeScript</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center" width="120"><img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60" alt="HTML5"/><br>HTML5</td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
+    <td align="center" width="120"><img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60" alt="HTML5"/><br>HTML5</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/><br>CSS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="Tailwind"/><br>Tailwind</td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular Material"/><br>Angular Material</td>
@@ -43,11 +43,11 @@
     <td align="center" width="120"><img src="./Swagger Logo.png" width="60" alt="Swagger"/><br>Swagger</td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" alt="Postman"/><br>Postman</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker"/><br>Docker</td>
-    <td align="center" width="120"><img src="./Yarp.png" width="60" alt="YARP"/><br>YARP</td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
+    <td align="center" width="120"><img src="./Yarp.png" width="60" alt="YARP"/><br>YARP</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rabbitmq" width="60" alt="RabbitMQ"/><br>RabbitMQ</td>
     <td align="center" width="120"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" alt="AWS"/><br>AWS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=npm" width="60" alt="YARP"/><br>npm</td>
