@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dennis Benadict
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" />
+  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
 </p>
 
 ### Full-Stack Developer ✨ 
