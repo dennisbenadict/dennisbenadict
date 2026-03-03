@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat"/>
 </p>
 
-### Full-Stack Developer ✨ 
+### Full-Stack Developer  ✨ 
 
 - 🔍 Diving deep into the world of software development — learning, experimenting, and building every day.<br>
 - 🌌 Full-stack developer building modern Angular frontends and scalable .NET backend systems.<br>
